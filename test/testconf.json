@@ -1,0 +1,9 @@
+{
+	"Desc": "foo dive to bar",
+	"NumGases": 3,
+	"GasesUsed": [
+		{"FO2": 0.21, "FN2": 0.79},
+		{"FO2": 0.21, "FHE": 0.29, "FN2": 0.50}
+	],
+	"AscentRate": 9
+}
